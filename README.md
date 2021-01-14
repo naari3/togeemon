@@ -1,6 +1,6 @@
-# Chrome Extension (built with TypeScript + React)
+# とげえもん
 
-> This project is a boilerplate project to allow you to quickly build chrome extensions using TypeScript and React.
+![screenshot](screenshot.png)
 
 ## Building
 
