@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "とげえもん",
     "description": "助けてとげえもん",
-    "version": "1.0.0",
+    "version": "1.1.1",
     "browser_action": {
         "default_icon": "icon16.png"
     },
